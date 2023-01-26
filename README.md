@@ -6,40 +6,33 @@
 
 ## 2. 기능 구현
 #### [DATABASE]
-    (정연서, 문지선)
 2-1. SQLite   
 2-2. 메모, 사진 저장   
 2-3. 날짜, 시간 저장     
 
 #### [앱 연동]
-    (구혜은)
 2-4. everytime앱과 연동    
 
 #### [Alarm]
-    (문지선)
 2-5. Alarm Service   
 2-6. DatePicker   
 2-7. TimePicker   
 
 #### [BEACON]
-    (정연서, 김소연)
 2-8. BEACON Notification   
 2-9. 거리 인식   
 
 #### [Geofence & Geocoder]
-    (김소연)
 2-10. Google Map API   
 2-11. Geocoder   
 2-12. Geofence  
 2-13. Geofence Notification   
 
 #### [환경설정]
-    (문지선, 구혜은, 정연서)
 2-14. 소리 설정   
 2-15. 언어 설정   
 
 #### [디자인]
-    (구혜은, 정연서, 김소연)
 2-16. Splash 화면   
 2-17. Nevigation Drawer   
 2-18. Tool Bar   
